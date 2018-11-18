@@ -1,3 +1,6 @@
 public void function{
 
+private username;
+private password;
+
 }
