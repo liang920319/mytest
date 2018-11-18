@@ -1,6 +1,10 @@
 第一步：将aaa.txt文件，并推送（push）到远程仓库mytest中。
 
+<<<<<<< HEAD
 
 
 
 我爱你02慧慧ygerhrehgre
+=======
+我爱你哈哈哈
+>>>>>>> e6399d284636b983ea6911f8ce930e8e0b358ee1
